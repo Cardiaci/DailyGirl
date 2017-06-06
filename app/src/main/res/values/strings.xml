@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">每日妹纸</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="error_message">哎呀,加载失败了,请检查下网络或者下拉重新刷新下~</string>
+    <string name="image_error">图片加载失败啦~</string>
+    <string name="back_message">再按一次退出每日妹纸</string>
+    <string name="gank_meizi">每日妹纸</string>
+    <string name="tao_female">淘宝妹纸</string>
+    <string name="action_notifiable">每天中午提醒</string>
+    <string name="headsup_title">每日妹纸</string>
+    <string name="headsup_content">今天的妹纸已经准备好了，快来享用吧~</string>
+    <string name="image_icon_dec">app icon</string>
+    <string name="about_introduce">「每日妹纸」- 每日更新妹纸福利图
+                                    \n\n功能介绍
+                                    \n\n1.数据均来自抓取各大网站妹子福利图gank,淘女郎.
+                                    \n\n2.使用Rxjava系列 + Realm数据库 + Glide实现.
+                                    \n\n3.遵循Google的Material Design.
+                                    \n\n最后感谢HotBitmapGG大神</string>
+    <string name="about_developers">关于我</string>
+    <string name="about_open_source_lis">联系我</string>
+    <string name="about_introduce_and_help">介绍与帮助</string>
+    <string name="about_open_source_libraries_list">QQ:123456</string>
+    <string name="about_version">1.0</string>
+    <string name="project_link"></string>
+</resources>

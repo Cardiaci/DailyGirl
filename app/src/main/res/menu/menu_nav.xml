@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checked="true"
+            android:icon="@drawable/home"
+            android:title="@string/gank_meizi" />
+
+        <item
+            android:id="@+id/nav_tao"
+            android:checked="true"
+            android:icon="@drawable/wedding_dress"
+            android:title="@string/tao_female" />
+
+    </group>
+
+    <item android:title="Other">
+        <menu>
+
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="分享App" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/high_importance"
+                android:title="关于App" />
+
+
+        </menu>
+    </item>
+
+</menu>
